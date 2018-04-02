@@ -1,0 +1,1 @@
+FROM everware/base
